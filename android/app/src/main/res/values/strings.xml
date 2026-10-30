@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Geo App</string>
+    <string name="title_activity_main">Geo App</string>
+    <string name="package_name">com.aluno.geoapp</string>
+    <string name="custom_url_scheme">com.aluno.geoapp</string>
+</resources>

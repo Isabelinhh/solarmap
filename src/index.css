@@ -1,0 +1,14 @@
+:root {
+  --bg: #0e1a2b;
+  --panel: #15263d;
+  --line: #2a4163;
+  --text: #eef3fa;
+  --muted: #93a8c4;
+  --accent: #ffc233;
+  --ok: #6fdc9a;
+  --danger: #ff8a7a;
+  color-scheme: dark;
+  font-family: "Segoe UI", system-ui, sans-serif;
+}
+* { box-sizing: border-box; }
+html, body, #root { margin: 0; min-height: 100%; background: var(--bg); color: var(--text); }
